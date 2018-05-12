@@ -1,0 +1,31 @@
+_repo: Gaston-Darboux--Biographie-Bibliographie-analytique-des--crits_42310
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42310-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lebon, Ernest
+    aliases:
+    - Lebon, Désiré Ernest
+    - Lebon, Desire Ernest
+    birthdate: 1846
+    deathdate: 1922
+    gutenberg_agent_id: '36123'
+    url: http://www.gutenberg.org/2009/agents/36123
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2013-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42310'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Darboux, Gaston, 1842-1917'
+- !lcc 'QA'
+- !lcsh 'Mathematicians -- Biography'
+title: 'Gaston Darboux: Biographie, Bibliographie analytique des écrits'
+url: http://www.gutenberg.org/ebooks/42310
